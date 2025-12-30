@@ -2,7 +2,7 @@
 
 <h2>1001件のTokopedia商品のサンプルデータセット</h2>
 
-![Tokopedia dataset header](https://github.com/luminati-io/Tokopedia-dataset-samples/blob/main/Tokopedia-datasets.png)
+![Tokopedia dataset header](https://github.com/bright-jp/Tokopedia-dataset-samples/blob/main/Tokopedia-datasets.png)
 
 1000件以上のレコードを含むTokopediaデータセットのサンプルです。データセットは<b>Bright Data API</b>を使用して抽出されています。
 
