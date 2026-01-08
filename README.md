@@ -1,4 +1,4 @@
-# # Tokopedia-dataset-samples
+# # Tokopedia データセットサンプル
 
 <h2>1001件のTokopedia商品のサンプルデータセット</h2>
 
